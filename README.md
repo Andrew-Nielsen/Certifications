@@ -20,3 +20,10 @@ https://www.opsgility.com/courses/player/architecting-cloud-connectivity
 
 Random video on how to pass:
 https://channel9.msdn.com/Events/Ignite/2016/BRK3264
+
+Udemy Courses:
+https://www.udemy.com/
+
+Details to purchase Test:
+http://www.mindhub.com/MCP-bundles-practice-test-vouchers-p/microsoft_exam_replay_pt.htm
+http://www.mindhub.com/microsoft-cloud-exam-bundles-p/mcp-azure-skills-3_p.htm
