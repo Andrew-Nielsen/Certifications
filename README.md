@@ -27,6 +27,8 @@ https://www.udemy.com/
 Details to purchase Test:
 http://www.mindhub.com/MCP-bundles-practice-test-vouchers-p/microsoft_exam_replay_pt.htm
 http://www.mindhub.com/microsoft-cloud-exam-bundles-p/mcp-azure-skills-3_p.htm
+http://www.mindhub.com/microsoft-cloud-exam-bundles-p/mcp-azure-skills-1_p.htm?1=1&CartID=0
 
 Microsoft Cert Details:
 https://www.microsoft.com/en-us/learning/mcsa-cloud-platform-certification.aspx
+https://www.microsoft.com/en-us/learning/exam-70-534.aspx
