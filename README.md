@@ -1,5 +1,7 @@
 # Certifications
 
+Microsoft Azure:
+
 Since the Architecture Azure Solution material is spanned out in every direction, I figured it would be helpful to start to accomulate material that would be useful in obtaining these certifications:
 
 Pluralsight details of the MCSA and MCSA along with material that could help with learning:
@@ -11,6 +13,7 @@ https://www.microsoft.com/en-ie/learning/on-demand-online-courses.aspx
 
 Microsoft Virtual Academy:
 https://mva.microsoft.com/en-US/training-courses/microsoft-azure-iaas-deep-dive-jump-start-8287?l=spkUKGXy_4304984382
+https://mva.microsoft.com/en-US/training-courses/certification-exam-overview-70534-architecting-microsoft-azure-solutions-17406?l=HvO3aUmjD_1906218965 - latest Overview of 70-534
 
 Blog on how to get ready for the exam:
 https://carlos.mendible.com/2016/03/06/get-ready-exam-70-534-architecting-microsoft-azure-solutions/
@@ -32,3 +35,9 @@ http://www.mindhub.com/microsoft-cloud-exam-bundles-p/mcp-azure-skills-1_p.htm?1
 Microsoft Cert Details:
 https://www.microsoft.com/en-us/learning/mcsa-cloud-platform-certification.aspx
 https://www.microsoft.com/en-us/learning/exam-70-534.aspx
+
+
+AWS:
+
+A cloud guru course:
+https://acloud.guru/learn/aws-certified-solutions-architect-associate
