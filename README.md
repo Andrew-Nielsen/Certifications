@@ -1,6 +1,6 @@
 # Certifications
 
-Microsoft Azure:
+Microsoft Azure (70-534):
 
 Since the Architecture Azure Solution material is spanned out in every direction, I figured it would be helpful to start to accomulate material that would be useful in obtaining these certifications:
 
@@ -37,7 +37,22 @@ https://www.microsoft.com/en-us/learning/mcsa-cloud-platform-certification.aspx
 https://www.microsoft.com/en-us/learning/exam-70-534.aspx
 
 
-AWS:
+AWS(CSA):
 
 A cloud guru course:
 https://acloud.guru/learn/aws-certified-solutions-architect-associate
+
+Interesting Article:
+https://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle/
+
+Study Guidance:
+https://read.acloud.guru/what-you-need-to-get-aws-certified-5937e613b10f
+
+A way to register for the exam:
+https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON
+
+WhitePapers:
+https://aws.amazon.com/whitepapers/
+https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf
+https://d0.awsstatic.com/whitepapers/AWS%20Storage%20Services%20Whitepaper-v9.pdf
+https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
